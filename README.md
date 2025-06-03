@@ -39,14 +39,4 @@ pip install -r requirements.txt
 
 ---
 
-## ✅ What to do next:
-1. Replace `[Your Name]` with your name or GitHub username  
-2. Add it to your repo as `README.md`  
-3. Commit and push:
-
-```bash
-git add README.md
-git commit -m "Add professional README"
-git push
-
 - made by Kristelle Pabón
