@@ -17,7 +17,8 @@ def main_menu():
         elif choice == "2":
             view_history()
         elif choice == "3":
-            print("Goodbye!")
+            print("\nGoodbye!, comeback soon...\n")
+            print("------------------------------\n")
             break
         else:
             print("Sorry, that's an invalid choice. Please try again.")
