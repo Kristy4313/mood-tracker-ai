@@ -1,4 +1,4 @@
-import mood
+import src.mood as mood
 
 """
 Function meant to display mood history... coming soon

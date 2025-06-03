@@ -1,5 +1,5 @@
-from mood import get_mood
-from history import view_history
+from src.mood import get_mood
+from src.history import view_history
 
 def main_menu():
     while True:
@@ -25,7 +25,7 @@ def main_menu():
 
         
 
-        
+
 if __name__ == "__main__":
     main_menu()
         
