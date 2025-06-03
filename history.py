@@ -7,6 +7,10 @@ import mood
 
 def view_history():
     print("\n--- Mood History ---")
-    print("Feature coming soon! No mood history available yet.\n")
+    print("\nFeature coming soon! No mood history available yet.")
+    print("\n --------------------------------------------------")
 
+
+if __name__ == "__main__":
+    view_history()
 
