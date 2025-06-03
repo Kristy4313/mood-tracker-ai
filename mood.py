@@ -10,6 +10,7 @@ def get_mood():
     print("\n -----------------------------------------------------")
 
 
+
 """
 Function for saving the mood and loging it in the moods_log.txt file
 """

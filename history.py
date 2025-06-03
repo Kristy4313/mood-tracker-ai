@@ -1,8 +1,8 @@
+import mood
+
 """
 Function meant to display mood history... coming soon
 """
-
-import mood
 
 
 def view_history():
