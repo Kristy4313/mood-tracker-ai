@@ -18,7 +18,7 @@ def save_mood(mood):
     now = datetime.now().strftime("%Y-%m-%d %I:%M:%S %p")
 
     # Ensure the data folder exists and add mood log there
-    base_dir = os.path.dirname(os.path.abspath(__file__))
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     data_dir = os.path.join(base_dir, "data")
     os.makedirs(data_dir, exist_ok=True)
 
